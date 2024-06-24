@@ -5,7 +5,8 @@ from jmcomic.cl import JmcomicUI
 jm_albums = '''
 
 
-568435
+450815
+
 '''
 
 # 单独下载章节
